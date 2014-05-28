@@ -1,6 +1,7 @@
 A small program solves the Sudoku games.
 
 input is like
+
 . . . . . . . . .
 . 4 . 5 . 3 . 6 .
 5 . 9 8 . 6 1 . 4
