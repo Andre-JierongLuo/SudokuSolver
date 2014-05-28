@@ -13,3 +13,7 @@ input is like
 . . . . . . . . .
 
 a dot "." means empty at that cell. 
+
+return ERROR means that sudoku has error like two same number in the same row or same box. The problem is unsolvable.
+
+By the way, it can't solve super hard sudoku game.
